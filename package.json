@@ -1,0 +1,22 @@
+{
+  "name": "commandline",
+  "version": "1.0.0",
+  "description": "Done late night at SudoRoom when I should have been resting or doing other stuff.",
+  "main": "app.js",
+  "dependencies" : {
+    "underscore" : "1.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romyilano/late-night-node-sessions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romyilano/late-night-node-sessions/issues"
+  },
+  "homepage": "https://github.com/romyilano/late-night-node-sessions"
+}
