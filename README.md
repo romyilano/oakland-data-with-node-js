@@ -13,6 +13,7 @@ _Women dominate clerical, lower-paid clerical jobs like entry level accounting a
 # Tutorial Copy
 
 // TODO!!!
+* Talk about the node.js csv npm module - https://www.npmjs.com/package/csv
 
 # Tutorial Samples
 	
